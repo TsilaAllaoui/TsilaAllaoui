@@ -40,5 +40,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio" alt="Visualstudio" width="40" heigth="40"/>
 </div>
 
+-----
+
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsilaAllaoui&show_icons=true&theme=tokyonight)](https://github.com/TsilaAllaoui/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsilaAllaoui&layout=compact&langs_count=6&theme=tokyonight)
+</div>
+
+-----
+
 # **<u>Contact</u>**
-### 📧 tsila.allaoui@gmail.com
+# 📧 tsila.allaoui@gmail.com
