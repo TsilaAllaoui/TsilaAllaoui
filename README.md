@@ -44,12 +44,14 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsilaAllaoui&show_icons=true&theme=tokyonight)](https://github.com/TsilaAllaoui/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsilaAllaoui&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsilaAllaoui&layout=compact&langs_count=6&theme=tokyonight)
 </div>
 
 -----
 
-# **<u>Contact</u>**
-# 📧 tsila.allaoui@gmail.com
+# **<u>Links</u>**
+[![Gmail: Tsila Allaoui](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tsila.allaoui@gmail.com)](mailto:tsila.allaoui@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/TsilaAllaoui)](https://www.frontendmentor.io/profile/TsilaAllaoui)&nbsp;
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasolo-allaoui-tsilavo-maminiaina-manatombo-948634201)](https://www.linkedin.com/in/rasolo-allaoui-tsilavo-maminiaina-manatombo-948634201)
