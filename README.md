@@ -58,5 +58,4 @@
 [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasolo-allaoui-tsilavo-maminiaina-manatombo-948634201)](https://www.linkedin.com/in/rasolo-allaoui-tsilavo-maminiaina-manatombo-948634201)
 [![LeetCode user user1640tn](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fuser1640tn&logo=leetcode&logoColor=yellow)](https://leetcode.com/user1640tn/)
 [![View - CODESIGNAL profile](https://img.shields.io/badge/View-CODESIGNAL_profile-0F5FF3?style=for-the-badge&logo=codesignal&logoColor=FFFFFF)](https://app.codesignal.com/profile/tsilaallaoui)
-[![View - HACKERRANK profile](https://img.shields.io/badge/View-CODESIGNAL_profile-0F5FF3?style=for-the-badge&logo=codesignal&logoColor=FFFFFF)](https://www.hackerrank.com/profile/tsila_allaoui)
 [![View - Hackerrank_profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tsila_allaoui)
